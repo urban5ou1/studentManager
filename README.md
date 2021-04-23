@@ -1,3 +1,3 @@
 # studentManager
 
-Repo for Java JDBC CRUD Tutorial: SQL Insert, Select, Update, and Delete Examples
+A Java JDBC CRUD [SQL Insert, Select, Update, and Delete] Example
